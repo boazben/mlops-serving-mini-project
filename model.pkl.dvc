@@ -1,0 +1,12 @@
+md5: cfb1f02a464c1394563b7346639c1a4c
+frozen: true
+deps:
+- path: model.pkl
+  repo:
+    url: git@github.com:boazben/mlops-training-mini-project.git
+    rev_lock: 2faa4c816a1bd751cd35fcc8885c4560d49952ee
+outs:
+- md5: 64fb0a59c3aaca84fd00d99a32dc52da
+  size: 829
+  hash: md5
+  path: model.pkl
